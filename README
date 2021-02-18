@@ -1,1 +1,5 @@
-TEST
+DoraDV is a systemverilog based testbench, including SystemVerilog, UVM, Synopsys VCS tool, verification theory tutorial. 
+To Start: 
+
+	- Prepare: Need to setup VCS related environment parameters. Can start vcs standalone. 
+
